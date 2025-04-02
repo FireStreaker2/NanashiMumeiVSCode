@@ -1,0 +1,22 @@
+{
+	"name": "nanashi-mumei-theme",
+	"displayName": "Nanashi Mumei Theme",
+	"description": "A dark brown theme for Nanashi Mumei",
+	"version": "1.0.0",
+	"publisher": "FireStreaker2",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nanashi Mumei",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nanashi-mumei-color-theme.json"
+			}
+		]
+	}
+}

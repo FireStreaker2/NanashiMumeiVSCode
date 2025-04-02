@@ -1,0 +1,69 @@
+{
+	"name": "Nanashi Mumei",
+	"type": "dark",
+	"colors": {
+		"editor.foreground": "#ebd9d1",
+		"editor.background": "#1c1314",
+		"editorCursor.foreground": "#ebd9d1",
+		"editor.lineHighlightBackground": "#291f20",
+		"editor.selectionBackground": "#4a393a",
+		"editor.inactiveSelectionBackground": "#614847",
+		"editor.selectionHighlightBackground": "#785b56",
+		"editor.wordHighlightBackground": "#8d6e65",
+		"editor.wordHighlightStrongBackground": "#9b7e74",
+		"editorBracketMatch.background": "#b29c92",
+		"editorBracketMatch.border": "#cec1ba",
+		"activityBar.background": "#1c1314",
+		"sideBar.background": "#291f20",
+		"sideBar.foreground": "#a49792",
+		"statusBar.background": "#1c1314",
+		"statusBar.foreground": "#ebd9d1",
+		"titleBar.activeBackground": "#4a393a",
+		"titleBar.activeForeground": "#ebd9d1",
+		"panel.background": "#291f20"
+	},
+	"tokenColors": [
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#614847"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#B18576"
+			}
+		},
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#9F5F61"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#B18D9B"
+			}
+		},
+		{
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#DAADA4"
+			}
+		},
+		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#C17886"
+			}
+		},
+		{
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#AE7889"
+			}
+		}
+	]
+}
