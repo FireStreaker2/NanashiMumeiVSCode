@@ -4,6 +4,10 @@
 	"description": "A dark brown theme for Nanashi Mumei",
 	"version": "1.0.0",
 	"publisher": "FireStreaker2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FireStreaker2/NanashiMumeiVSCode"
+	},
 	"engines": {
 		"vscode": "^1.60.0"
 	},
